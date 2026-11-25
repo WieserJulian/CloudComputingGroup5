@@ -38,7 +38,7 @@ observable and secure: metrics, logs and alerts for the hosts and for every game
 
 - Horizontal scaling: changing `wings_node_count` in OpenTofu adds a new node that registers itself in the Panel via
   the Panel's Application API.
-- OpenTelemetry tracing of the Panel (PHP auto-instrumentation).
+- OpenTelemetry tracing of the Panel.
 
 ## Out-of-Scope
 
