@@ -1,7 +1,7 @@
 # Erdoel (Oil) - Cloud Computing Group 5
 ![Banner](imgs/banner.png)
 
-**Members:** Julian Wieser, Jakob Guggenbichler, Jakob Defranceschi, Jannik ?
+**Members:** Julian Wieser, Jakob Guggenbichler, Jakob Defranceschi, Dominik Mayerl
 
 ## Overview
 
@@ -69,7 +69,7 @@ observable and secure: metrics, logs and alerts for the hosts and for every game
 
 | Member              | Main responsibility                                                 | Milestones |
 |---------------------|---------------------------------------------------------------------|------------|
-| ?       | Infrastructure as Code (OpenTofu, cloud-init), Pterodactyl deployment | M1         |
+| Dominik Mayerl       | Infrastructure as Code (OpenTofu, cloud-init), Pterodactyl deployment | M1         |
 | Julian Wieser | CI/CD pipelines (GitHub Actions, dev/prod environments, validation) | M2         |
 | Jakob Defranceschi             | Observability (OpenTelemetry Collector, Prometheus, Grafana)        | M2, M3     |
 | Jakob Guggenbichler            | Security (Falco, custom rules, Falcosidekick alerting)              | M3         |
