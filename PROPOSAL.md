@@ -1,7 +1,7 @@
 # Erdoel (Oil) - Cloud Computing Group 5
 ![Banner](imgs/banner.png)
 
-**Members:** Julian Wieser, Jakob Guggenbichler, Jakob ?, Jannik ?
+**Members:** Julian Wieser, Jakob Guggenbichler, Jakob Defranceschi, Jannik ?
 
 ## Overview
 
