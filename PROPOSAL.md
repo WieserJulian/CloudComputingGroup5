@@ -71,6 +71,6 @@ observable and secure: metrics, logs and alerts for the hosts and for every game
 |---------------------|---------------------------------------------------------------------|------------|
 | ?       | Infrastructure as Code (OpenTofu, cloud-init), Pterodactyl deployment | M1         |
 | Julian Wieser | CI/CD pipelines (GitHub Actions, dev/prod environments, validation) | M2         |
-| ?             | Observability (OpenTelemetry Collector, Prometheus, Grafana)        | M2, M3     |
+| Jakob Defranceschi             | Observability (OpenTelemetry Collector, Prometheus, Grafana)        | M2, M3     |
 | Jakob Guggenbichler            | Security (Falco, custom rules, Falcosidekick alerting)              | M3         |
 | All                 | README documentation, lessons learned, presentation and demo        | M4, M5     |
